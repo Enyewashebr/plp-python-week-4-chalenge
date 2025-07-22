@@ -5,6 +5,7 @@ with open("input.txt", "w") as file:
     file.write("file three\n")
     file.write("file four\n")
     file.write("file five\n")
+    file.write("file five\n")
 # Read the contents of input.txt.
 with open("input.txt", "r") as file:
     content= file.read()
